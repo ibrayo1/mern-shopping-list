@@ -14,9 +14,9 @@
   "author": "Ibrahim Ayoob <ibrayo1128@gmail.com> (https://github.com/ibrayo1/CS494-UI.git)",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "concurrently": "^5.2.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.9.17"
   },
   "devDependencies": {
